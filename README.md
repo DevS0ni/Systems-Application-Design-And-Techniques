@@ -1,1 +1,1 @@
-# SAD - System Application Design & Software
+# SAD - System Application Design & Techniques
